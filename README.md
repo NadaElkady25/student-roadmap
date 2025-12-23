@@ -24,6 +24,6 @@ A simple study planner web application that helps students organize subjects, ma
 ## Author
 -Nada Mostafa
 -Malika Sorror
--Carol Wessam 
+-Carol Wissam 
 -Jessy Ossama
 -Yasmine Habib
