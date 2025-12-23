@@ -22,4 +22,8 @@ A simple study planner web application that helps students organize subjects, ma
 - JavaScript for interactivity
 
 ## Author
-Student Roadmap Project
+Nada Mostafa
+Malika Sorror
+Carol Wessam 
+Jessy Ossama
+Yasmine Habib
