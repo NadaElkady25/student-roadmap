@@ -22,8 +22,8 @@ A simple study planner web application that helps students organize subjects, ma
 - JavaScript for interactivity
 
 ## Author
-Nada Mostafa
-Malika Sorror
-Carol Wessam 
-Jessy Ossama
-Yasmine Habib
+-Nada Mostafa
+-Malika Sorror
+-Carol Wessam 
+-Jessy Ossama
+-Yasmine Habib
